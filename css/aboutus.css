@@ -1,0 +1,70 @@
+@charset "utf-8";
+#undertop {
+	border-top:1px solid  #cccccc;	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top:6px;
+	background-color: #ffffff;
+}
+#content {
+	background: url(../images/contentbg.png)repeat-x;
+	width: 100%;
+    padding-bottom: 50px;
+}
+h2{
+	color:#0f298d;
+	font-weight: bold;
+	font-size: 24px;
+}
+.mainLeft{
+	margin-top: 42px;
+	width:200px;
+	float: left;
+}
+.style li {
+    border-bottom: 1px solid #CCC;
+    background: no-repeat left url('../images/arr.png');
+    padding-left: 10px; 
+  margin-top: 20px;
+  }
+.style .cur {
+    background-image: url('../images/arr1.png');
+    font-weight: bold;
+  }
+.mainRight{
+	margin-top: 45px;
+    text-align:left;
+    float:right;
+    width:770px;
+}
+.lx{
+	color:#000000;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.world{
+	margin-top: 10px;
+	float:right;
+}
+p{
+	text-indent: 2em; 
+	color:#272727;
+}
+.aboutcompany{
+	padding-top: 23px;
+	float:left;
+}
+p{
+	padding-bottom: 23px;
+	margin-top: 12px;
+}
+.font1{
+	font-size: 16px;
+	color:#0F298D;
+	font-weight: bold;
+}
+.font2{
+	font-weight:bold;
+	color:#272727;
+}
